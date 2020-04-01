@@ -1,0 +1,12 @@
+{
+  "name": "@lusito/prettier-config",
+  "version": "1.0.0",
+  "description": "prettier-config for my personal projects",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Santo Pfingsten",
+  "license": "Zlib",
+  "dependencies": {
+    "prettier": "2.0.2"
+  }
+}

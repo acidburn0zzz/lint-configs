@@ -1,0 +1,13 @@
+{
+  "name": "@lusito/stylelint-config",
+  "version": "1.0.0",
+  "description": "stylelint-config for my personal projects",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Santo Pfingsten",
+  "license": "Zlib",
+  "dependencies": {
+    "stylelint": "^13.2.1",
+    "stylelint-config-prettier": "^8.0.1"
+  }
+}
