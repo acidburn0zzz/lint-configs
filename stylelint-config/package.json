@@ -7,7 +7,7 @@
   "author": "Santo Pfingsten",
   "license": "Zlib",
   "dependencies": {
-    "stylelint": "^13.2.1",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^8.0.1"
   }
 }
